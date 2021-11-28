@@ -1,5 +1,5 @@
 # Building a Complete Stater Config Clone using Laravel and Vue
-This is a demo application stater use by vue js - v2 with backend laravel- v8
+This is a demo application stater use by vue js - v2 and vue router with backend laravel- v8
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -17,7 +17,7 @@ What things you need to install the software.
 ### Install
 Clone the git repository on your computer
 ```
-$ git clone https://github.com/saif01/fullcalendar-laravel-8-vue-2.git
+$ git clone https://github.com/saif01/fresh-laravel-8-vue-2.git
 ```
 
 
